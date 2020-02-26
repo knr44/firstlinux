@@ -1,2 +1,3 @@
 hello welcome to devops
 hi iam a devops consultent
+hi iam working as azure
